@@ -24,9 +24,24 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+<table style="float:right">
+    <tr>
+      <th>Month</th>
+      <th>Savings</th>
+    </tr>
+    <tr>
+      <td>January</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>February</td>
+      <td>$80</td>
+    </tr>
+  </table>
 
 
 ## OUTPUT
+![Screenshot 2025-04-08 144543](https://github.com/user-attachments/assets/0a0d2589-c92a-4c36-b92a-3c09ae4328d8)
 
 
 ## RESULT
