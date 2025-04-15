@@ -41,7 +41,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Screenshot 2025-04-08 144543](https://github.com/user-attachments/assets/0a0d2589-c92a-4c36-b92a-3c09ae4328d8)
+![Screenshot 2025-04-08 144543](https://github.com/user-attachments/assets/203deda4-2644-442a-95e5-a944561f5ddf)
+
 
 
 ## RESULT
