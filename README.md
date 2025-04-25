@@ -24,24 +24,104 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-<table style="float:right">
-    <tr>
-      <th>Month</th>
-      <th>Savings</th>
-    </tr>
-    <tr>
-      <td>January</td>
-      <td>$100</td>
-    </tr>
-    <tr>
-      <td>February</td>
-      <td>$80</td>
-    </tr>
-  </table>
+```
+<html>
+<head>
+<title> Course Schedule </title>
+</head>
+<body>
 
-
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="red">
+<caption><b>reena (24900496)</b></caption>
+<tr align="center">
+<th bgcolor="green">Day/Time</th>
+<th bgcolor="green">Monday</th>
+<th bgcolor="green">Tuesday</th>
+<th bgcolor="green">Wednesday</th>
+<th bgcolor="green">Thursday</th>
+<th bgcolor="green">Friday</th>
+</tr>
+<tr align="center">
+<th bgcolor="green">8-10</th>
+<td >C PROGRAMMING</td>
+<td>COMMUNICATIVE ENGLISH</td>
+<td>PHYSICS </td>
+<td>NUMERICAL METHODS</td>
+<td>ADVANCED C PROGRAMMING</td>
+</tr>
+<tr align="center">
+<th bgcolor="green">10-12</th>
+<td>FREE SLOT</td>
+<td> FUNDAMENTALS OF WEB </td>
+<td>PRINCIPLES OF CHEMISTRY</td>
+<td>FREE SLOT</td>
+<td>NUMERICAL METHODS</td>
+</tr>
+<tr>
+<th bgcolor="green">12-1</th>
+<td colspan="5" align="center">L U N C H</td>
+</tr>
+<tr align="center">
+<th bgcolor="green">1-3</th>
+<td >FREE SLOT </td>
+<td>FREE SLOT</td>
+<td>COMMUNICATIVE ENGLISH</td>
+<td>FUNDAMENTALS OF WEB</td>
+<td>SOFT SKILLS</td>
+</tr>
+<tr align="center">
+<th bgcolor="green">3-5</th>
+<td>NUMERICAL METHODS</td>
+<td>FREE SLOT</td>
+<td>FUNDAMENTALS OF WEB</td>
+<td>FPHYSICS</td>
+<td>PRINCIPLES OF CHEMISTRY</td>
+</tr>
+</table>
+<br>
+<table align="center" cellspacing="2" cellpadding="4" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>FUNDAMENTALS OF WEB (FWAD)</td>
+</tr>
+<tr>
+<td align="center">2.</td>
+<td align="center">19AI304</td>
+<td>C PROGRAMMING (C PROGRAM)</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">19PH325</td>
+<td> PHYSICS (PHY)</td>
+</tr>
+<tr>
+<td align="center">4.</td>
+<td align="center">19CY205</td>
+<td>PRINCIPLES OF CHEMISTRY (CHE)</td>
+</tr>
+<tr>
+<td align="center">5.</td>
+<td align="center">19MA211</td>
+<td>NUMERICAL METHODS (MAT)</td>
+</tr>
+<tr>
+<td align="center">6.</td>
+<td align="center">19EY701</td>
+<td>SOFT SKILLS (SS)</td>
+</tr>
+</table>
+</body>
+</html>
+```
 ## OUTPUT
-![Screenshot 2025-04-08 144543](https://github.com/user-attachments/assets/203deda4-2644-442a-95e5-a944561f5ddf)
+
+![Screenshot 2025-04-25 135152](https://github.com/user-attachments/assets/35d267e8-9907-4add-80cf-b199ceb3acae)
 
 
 
